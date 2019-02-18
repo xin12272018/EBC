@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\ConsoleApplicationWakuang3\ConsoleApplicationWakuang3\bin\Debug\ConsoleApplicationWakuang3.exe.config
+C:\Users\Administrator\Desktop\ConsoleApplicationWakuang3\ConsoleApplicationWakuang3\bin\Debug\ConsoleApplicationWakuang3.exe
+C:\Users\Administrator\Desktop\ConsoleApplicationWakuang3\ConsoleApplicationWakuang3\bin\Debug\ConsoleApplicationWakuang3.pdb
+C:\Users\Administrator\Desktop\ConsoleApplicationWakuang3\ConsoleApplicationWakuang3\bin\Debug\LitJson.dll
+C:\Users\Administrator\Desktop\ConsoleApplicationWakuang3\ConsoleApplicationWakuang3\obj\Debug\ConsoleApplicationWakuang3.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ConsoleApplicationWakuang3\ConsoleApplicationWakuang3\obj\Debug\ConsoleApplicationWakuang3.exe
+C:\Users\Administrator\Desktop\ConsoleApplicationWakuang3\ConsoleApplicationWakuang3\obj\Debug\ConsoleApplicationWakuang3.pdb
+C:\Users\Administrator\Desktop\ConsoleApplicationWakuang3\ConsoleApplicationWakuang3\bin\Debug\ClassLibraryEbar.dll
+C:\Users\Administrator\Desktop\ConsoleApplicationWakuang3\ConsoleApplicationWakuang3\bin\Debug\ClassLibraryEbar.pdb
